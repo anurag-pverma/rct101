@@ -1,0 +1,29 @@
+.navbar{
+    display: flex;
+    border: 1px solid  rebeccapurple;
+    background-color: rgb(17, 4, 4);
+    padding: 20px;
+    height: 45px;
+    text-align: center;
+    align-items: center;
+}
+
+.LogoBakery{
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+
+.Button{
+color: wheat;
+background-color: rgb(28, 145, 166);
+height: 30px;
+width: 70px;
+border-radius: 10px;
+margin-left: 300px;
+}
+
+
