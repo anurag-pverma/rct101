@@ -1,0 +1,48 @@
+{
+    "posts": [
+      {
+        "food_img": "",
+        "res_name": "pizza_hunt",
+        "payment_method": "visa",
+        "cost": "400",
+        "rating": "5",
+        "vote": "129",
+        "minimum_price": "7384",
+        "reviews": "100",
+        "id": 1
+      },
+      {
+        "food_img": "",
+        "res_name": "domino",
+        "payment_method": "visa",
+        "cost": "800",
+        "rating": "5",
+        "vote": "129",
+        "minimum_price": "7654",
+        "reviews": "100",
+        "id": 2
+      },
+      {
+        "food_img": "",
+        "res_name": "macdon",
+        "payment_method": "visa",
+        "cost": "76",
+        "rating": "6",
+        "vote": "176",
+        "minimum_price": "6384",
+        "reviews": "200",
+        "id": 3
+      },
+      {
+        "food_img": "",
+        "res_name": "",
+        "payment_method": "",
+        "cost": "",
+        "rating": "",
+        "vote": "",
+        "minimum_price": "",
+        "id": 5
+      }
+      
+    ]
+  }
