@@ -1,0 +1,19 @@
+body{
+    background-color: blue;
+}
+button{
+    width:70px;
+    height:70px;
+    font-size:40px;
+    color:brown;
+}
+.boards{
+    display:flex;
+
+}
+.board{
+    width:150px;
+    height:150px;
+    margin:auto;
+    margin-top:50px;
+}
