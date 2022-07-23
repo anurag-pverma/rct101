@@ -6,6 +6,7 @@ export const Timer = () => {
         const id= setInterval(()=>{
             setcount(function(prev){
                 if(prev===10){
+                    
                     clearInterval(id);
                     return prev;
                 }
